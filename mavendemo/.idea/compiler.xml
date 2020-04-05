@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mavendemo-linux" />
+        <module name="mavendemo-webapp-linux" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mavendemo-linux" target="13" />
+      <module name="mavendemo-linux-parent" target="1.5" />
+      <module name="mavendemo-parent" target="1.5" />
+      <module name="mavendemo-webapp-linux" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
