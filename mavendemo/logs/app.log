@@ -1,4 +1,4 @@
-Entering Application
+Entering Application som change
 we 've just traced the user!
 We've just debug the user!
 we've just info the user!
@@ -38,6 +38,14 @@ Enter
 a / b = %d
 0.5
 Exiting application
+Enter
+a + b = %d
+Enter
+a - b = %d
+Enter
+a * b = %d
+Enter
+a / b = %d
 Enter
 a + b = %d
 Enter
