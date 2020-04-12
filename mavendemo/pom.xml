@@ -4,7 +4,7 @@
   <artifactId>mavendemo-linux</artifactId>
   <packaging>jar</packaging>
   <name>mavendemo</name>
-  <url>http://maven.apache.org</url>
+  <url>http://maven.apache.org</url><!---some comments-->
 
     <parent>
         <artifactId>mavendemo-parent</artifactId>
