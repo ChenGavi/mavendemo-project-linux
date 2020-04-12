@@ -1,0 +1,20 @@
+Entering Application
+we 've just traced the user!
+We've just debug the user!
+we've just info the user!
+we;ve just warn the user!
+we've just error the user!
+we've just fatal error
+Enter
+a + b = %d
+3
+Enter
+a - b = %d
+-1
+Enter
+a * b = %d
+2
+Enter
+a / b = %d
+0.5
+Exiting application

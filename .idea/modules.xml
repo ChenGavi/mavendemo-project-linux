@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo-linux.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo-linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo-parent/mavendemo-parent.iml" filepath="$PROJECT_DIR$/mavendemo-parent/mavendemo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mavendemo-project-linux.iml" filepath="$PROJECT_DIR$/.idea/mavendemo-project-linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo-webapp-linux/mavendemo-webapp-linux.iml" filepath="$PROJECT_DIR$/mavendemo-webapp-linux/mavendemo-webapp-linux.iml" />
+    </modules>
+  </component>
+</project>
