@@ -20,7 +20,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>13</maven.compiler.release>
-    <log4j2.version>2.15.0</log4j2.version>
+    <log4j2.version>2.16.0</log4j2.version>
     <junit.jupiter.version>5.6.0</junit.jupiter.version>
     <junit.platform.version>1.6.0</junit.platform.version>
   </properties>
